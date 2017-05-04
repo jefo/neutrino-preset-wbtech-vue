@@ -1,5 +1,6 @@
 # neutrino-preset-wbtech-vue
-`neutrino-preset-wbtech-vue` is a Neutrino preset that supports django project layout to build web app with vue components.  
+`neutrino-preset-wbtech-vue` is a Neutrino preset that supports django project layout to build web app with vue components. 
+
 Extends from `neutrino-preset-airbnb-base`, `neutrino-preset-vue`, `neutrino-preset-vue` and setup webpack `output.publickPath = '/static/build'`
 
 ## Installation
