@@ -1,6 +1,6 @@
 {
   "name": "neutrino-preset-wbtech-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WB—Tech web project preset",
   "main": "index.js",
   "repository": "git@github.com:jefo/neutrino-preset-wbtech-vue.git",
