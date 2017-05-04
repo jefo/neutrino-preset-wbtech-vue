@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "neutrino-preset-airbnb-base": "^5.8.0",
+    "neutrino-preset-karma": "^5.8.0",
     "neutrino-preset-vue": "^2.1.0",
     "neutrino-preset-web": "^5.8.0"
   },
