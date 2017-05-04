@@ -1,0 +1,17 @@
+{
+  "name": "neutrino-preset-wbtech-vue",
+  "version": "1.0.0",
+  "description": "WB—Tech web project preset",
+  "main": "index.js",
+  "repository": "git@github.com:jefo/neutrino-preset-wbtech-vue.git",
+  "author": "jefo <johnyjefo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neutrino-preset-airbnb-base": "^5.8.0",
+    "neutrino-preset-vue": "^2.1.0",
+    "neutrino-preset-web": "^5.8.0"
+  },
+  "peerDependencies": {
+    "neutrino": "^5.5.0"
+  }
+}
