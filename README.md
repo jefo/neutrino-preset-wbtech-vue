@@ -4,7 +4,7 @@ Extends from `neutrino-preset-airbnb-base`, `neutrino-preset-vue`, `neutrino-pre
 
 ## Installation
 
-neutrino-preset-wbtech-vue can be installed via the Yarn or npm clients. Inside your project, make sure neutrino and neutrino-preset-wbtech-vue are development dependencies. You will also need Vue for actual Vue development.
+`neutrino-preset-wbtech-vue` can be installed via the Yarn or npm clients. Inside your project, make sure `neutrino` and `neutrino-preset-wbtech-vue` are development dependencies. You will also need Vue for actual Vue development.
 
 ### Yarn
 
